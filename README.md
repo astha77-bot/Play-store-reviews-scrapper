@@ -1,2 +1,5 @@
 # Play-store-reviews-scrapper
- Create a dataset for Sentiment Analysis by scraping user reviews for Android apps.
+
+->Code as per your required criteria.
+->Scrap reviews from Google play store applications using app package.
+->Use Pandas to convert and save the dataset into CSV files from json.
