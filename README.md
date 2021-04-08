@@ -1,9 +1,9 @@
 # Play-store-reviews-scrapper
 
 Step1:Code as per your required criteria that your're expecting from reviews csv file.
-Ste2:Scrap reviews from Google play store applications using app package.  
+Ste2:Scrap reviews from Google play store applications using app package.    
 ![alt text](https://github.com/[astha77-bot]/[Play-store-reviews-scrapper]/blob/[main]/app_package.jpg?raw=true)
-Step3:Use Pandas to convert and save the dataset into CSV files from json.  
+Step3:Use Pandas to convert and save the dataset into CSV files from json.    
 
 # Setup
 
